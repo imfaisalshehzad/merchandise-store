@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "name": "Blue cap",
+    "price": 9.99,
+    "createdAt": "2011-10-10T14:48:00",
+    "updatedAt": "2011-10-10T16:48:00"
+  },
+  {
+    "id": 3,
+    "name": "Product 005",
+    "price": 29.99,
+    "createdAt": "2011-10-10T14:48:00",
+    "updatedAt": "2024-02-23T16:46:10.561Z"
+  },
+  {
+    "id": 4,
+    "name": "Product 0011",
+    "price": 89,
+    "createdAt": "2024-02-23T16:45:46.083Z",
+    "updatedAt": "2024-02-23T18:14:35.659Z"
+  }
+]

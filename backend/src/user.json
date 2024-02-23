@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "email": "sample@jam.com",
+    "password": "admin",
+    "createdAt": "2011-10-10T14:48:00",
+    "updatedAt": "2011-10-10T16:48:00"
+  },
+  {
+    "id": "35b091b7-8fc6-4933-a543-876aa524aab0",
+    "email": "sam@jam.com",
+    "password": "$2a$08$NFcE0l26CdexoU.6uPoDHusoZHvwZ1OcIqEiQFPlad04Fi3KqNt6e",
+    "createdAt": "2024-02-23T13:04:57.762Z",
+    "updatedAt": "2024-02-23T13:04:57.762Z"
+  },
+  {
+    "id": "f7d7e724-1208-458b-86bc-b03581950b45",
+    "email": "sam1@jam.com",
+    "password": "$2a$08$BWVHD0LhFTbIKF7gZ6aZ4.UXI2aU32pmjo1cdn..u4FKYjamuB4k6",
+    "createdAt": "2024-02-23T13:51:02.511Z",
+    "updatedAt": "2024-02-23T13:51:02.511Z"
+  },
+  {
+    "id": "76eb0858-a3dc-45d6-ba05-97e289cd5faa",
+    "email": "sam01@jam.com",
+    "password": "$2a$08$VTlhsopbuRYpvcfoYp6.seOoOJFUIx02/vSCrj4jgQfTsHmFc6w0u",
+    "createdAt": "2024-02-23T16:04:12.259Z",
+    "updatedAt": "2024-02-23T16:04:12.259Z"
+  }
+]
