@@ -85,7 +85,7 @@ export default function Dashboard() {
 
                     </CardContent>
                     <CardFooter>
-                        <Link href="/dashboard">Go Back >> </Link>
+                        <Link href="/dashboard">Go Back &gt;&gt; </Link>
                     </CardFooter>
                 </Card>
             </div>
